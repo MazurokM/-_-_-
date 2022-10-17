@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+Мазурок М.И. 
+https://colab.research.google.com/drive/1OhDOfFE81P8--azk08CW-a1zO9cON4yv#scrollTo=hke6MsRtIDer
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
